@@ -23,3 +23,5 @@ end
 
 
 gem "active_model_serializers", "~> 0.10.15"
+
+gem "pg", "~> 1.6"
